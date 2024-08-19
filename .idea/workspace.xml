@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6503bf3d-0470-40ff-ada2-6ca1ed5b167a" name="Changes" comment="second comm" />
+    <list default="true" id="6503bf3d-0470-40ff-ada2-6ca1ed5b167a" name="Changes" comment="second comm">
+      <change afterPath="$PROJECT_DIR$/binance_streaming/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binance_streaming/binance_websocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/database_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/kafka_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/spark_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark_processing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark_processing/spark_streaming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <branch-grouping />
@@ -27,7 +46,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Almaz123ru/-DE-Simple-ETL-Binance-Project&quot;,
+    &quot;url&quot;: &quot;https://github.com/Almaz123ru/-DE-Simple-ETL-Binance-Project.git&quot;,
     &quot;accountId&quot;: &quot;869a2192-7c40-4a72-8784-43a88a703b66&quot;
   }
 }</component>
@@ -42,8 +61,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
   <component name="RunManager">
