@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6503bf3d-0470-40ff-ada2-6ca1ed5b167a" name="Changes" comment="Улучшенная структура и готовый минимум (в теории, пока не проверялся) для работы программы" />
+    <list default="true" id="6503bf3d-0470-40ff-ada2-6ca1ed5b167a" name="Changes" comment="Просто меняю README.md&#10;#2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,10 +129,33 @@
       <option name="project" value="LOCAL" />
       <updated>1724091343408</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Улучшенная структура и готовый минимум (в теории, пока не проверялся) для работы программы">
+      <option name="closed" value="true" />
+      <created>1724091467493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724091467493</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -140,7 +166,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -155,7 +181,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First com" />
     <MESSAGE value="second comm" />
-    <MESSAGE value="Улучшенная структура и готовый минимум (в теории, пока не проверялся) для работы программы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Улучшенная структура и готовый минимум (в теории, пока не проверялся) для работы программы" />
+    <MESSAGE value="Просто меняю README.md&#10;#2" />
+    <MESSAGE value="Просто меняю README.md&#10;#2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Просто меняю README.md&#10;#2" />
   </component>
 </project>
