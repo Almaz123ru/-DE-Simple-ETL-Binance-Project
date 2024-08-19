@@ -6,20 +6,20 @@ Project for data processing using Apache Spark & Kafka, with PostgreSQL storage.
 
 ### Описание файлов и папок
 
-- **/binance_streaming/**: Работа с Binance API
-  - `__init__.py`: Инициализация пакета.
-  - `binance_websocket.py`: Подключение к WebSocket и отправка данных в Kafka.
-  
-- **/spark_processing/**: Обработка данных с помощью Spark
-  - `__init__.py`: Инициализация пакета.
-  - `spark_streaming.py`: Чтение из Kafka, обработка и сохранение в PostgreSQL.
-  
-- **/configs/**: Конфигурационные файлы
-  - `kafka_config.py`: Конфигурации Kafka.
-  - `spark_config.py`: Конфигурации Spark.
-  - `database_config.py`: Конфигурации базы данных.
-  
-- **main.py**: Основной файл для запуска всех компонентов.
-- **requirements.txt**: Зависимости проекта.
-- **.gitignore**: Файлы и папки, исключенные из контроля версий.
-- **README.md**: Описание проекта.
+- **📂 /binance_streaming/**: Work with Binance API
+- - `__init__.py`: Packages initialization.
+- - `binance_websocket.py`: Connect to WebSocket and send data to Kafka.
+
+- **📂 /spark_processing**: Data processing using Spark
+- - `__init__.py`: Packages initialization.
+- - `spark_streaming.py`: Read from Kafka, process, and save to PostgreSQL.
+
+- **📂 /configs/**: Configuration files.
+- - `kafka_config.py`: Kafka configurations.
+- - `spark_config.py`: Spark configurations.
+- - `database_config.py`: DataBase configurations.
+
+- *`main.py`*: The main file to run all components.
+- *`requirements.txt`*: Project dependencies.
+- `.gitignore`: Files and folders excluded from version control.
+- `README.md`: Project description.

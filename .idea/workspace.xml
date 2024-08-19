@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6503bf3d-0470-40ff-ada2-6ca1ed5b167a" name="Changes" comment="Просто меняю README.md&#10;#2">
+    <list default="true" id="6503bf3d-0470-40ff-ada2-6ca1ed5b167a" name="Changes" comment="README.md #3&#10;MarkDown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724091467493</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="README.md #2">
+      <option name="closed" value="true" />
+      <created>1724092147047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724092147047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +191,8 @@
     <MESSAGE value="second comm" />
     <MESSAGE value="Просто меняю README.md&#10;#2" />
     <MESSAGE value="Просто меняю README.md&#10;#2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Просто меняю README.md&#10;#2" />
+    <MESSAGE value="README.md #3&#10;MarkDown" />
+    <MESSAGE value="README.md #3&#10;MarkDown" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md #3&#10;MarkDown" />
   </component>
 </project>
