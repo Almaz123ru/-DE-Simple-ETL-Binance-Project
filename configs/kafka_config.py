@@ -1,2 +1,2 @@
-KAFKA_BROKER_URL = 'localhost:9092'
-TOPIC_NAME = 'topic-name'
+KAFKA_BROKER = 'localhost:9092'
+KAFKA_TOPIC = 'topic-name'
